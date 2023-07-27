@@ -1,0 +1,15 @@
+/home/arteN01-061/Downloads/productosPOO/bin/Debug/net7.0/productosPOO
+/home/arteN01-061/Downloads/productosPOO/bin/Debug/net7.0/productosPOO.deps.json
+/home/arteN01-061/Downloads/productosPOO/bin/Debug/net7.0/productosPOO.runtimeconfig.json
+/home/arteN01-061/Downloads/productosPOO/bin/Debug/net7.0/productosPOO.dll
+/home/arteN01-061/Downloads/productosPOO/bin/Debug/net7.0/productosPOO.pdb
+/home/arteN01-061/Downloads/productosPOO/obj/Debug/net7.0/productosPOO.csproj.AssemblyReference.cache
+/home/arteN01-061/Downloads/productosPOO/obj/Debug/net7.0/productosPOO.GeneratedMSBuildEditorConfig.editorconfig
+/home/arteN01-061/Downloads/productosPOO/obj/Debug/net7.0/productosPOO.AssemblyInfoInputs.cache
+/home/arteN01-061/Downloads/productosPOO/obj/Debug/net7.0/productosPOO.AssemblyInfo.cs
+/home/arteN01-061/Downloads/productosPOO/obj/Debug/net7.0/productosPOO.csproj.CoreCompileInputs.cache
+/home/arteN01-061/Downloads/productosPOO/obj/Debug/net7.0/productosPOO.dll
+/home/arteN01-061/Downloads/productosPOO/obj/Debug/net7.0/refint/productosPOO.dll
+/home/arteN01-061/Downloads/productosPOO/obj/Debug/net7.0/productosPOO.pdb
+/home/arteN01-061/Downloads/productosPOO/obj/Debug/net7.0/productosPOO.genruntimeconfig.cache
+/home/arteN01-061/Downloads/productosPOO/obj/Debug/net7.0/ref/productosPOO.dll
